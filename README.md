@@ -11,4 +11,4 @@
 
 ## 📫 Connect with me
 - [LinkedIn](https://linkedin.com/in/keli-chen)  
-- [Email](mailto:keli.chen@mail.utoronto.ca)  
+- Email: [keli.chen@mail.utoronto.ca](mailto:keli.chen@mail.utoronto.ca)
