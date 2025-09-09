@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Keli  
+## 👋 Hi, I’m Keli Chen
 
 🎓 Computer Engineering @ UofT | AI Minor  
 💻 Python • C++ • Verilog • PyTorch  
